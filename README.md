@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Recommender System and Deep Learning
   - 🖥 Also interested in back-end and developed something uneventful using Java with SpringBoot framework
-- 🤔 I’m looking for help learn AI algorithms
+- 🤔 I’m looking for help to learn AI algorithms
 - 📫 How to reach me
   - 💬 WeChat: PinskyRobin
   - 📮 Email: xu568059888@gmail.com
