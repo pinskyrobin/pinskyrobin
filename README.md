@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🧑‍🎓 I am a senior about to graduate from Harbin Institute of Technology, Shenzhen, majoring in Computer Science and Technology.
-  - 🥳 Received offer from Tsinghua University, Data Science and Information Technology.
-- 🌱 Most of my research interests lie in Recommender System and AIGC.
-- 🤔 Looking forward to learning AI algorithms together!
+- 🧑‍🎓 I have just graduated from Harbin Institute of Technology, Shenzhen, majoring in Computer Science and Technology.
+  - 🥳 About to study in Tsinghua SIGS, Data Science and Information Technology.
+- 🌱 Most of my research interests lie in Recommender System.
+- 🤔 Also interested in Quantitative Trading! Still an amateur though :P
 - 📫 How to reach me
   - 💬 WeChat: PinskyRobin
   - 📮 Email: pinskyrobin@gmail.com
