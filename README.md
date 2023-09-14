@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🧑‍🎓 I have just graduated from Harbin Institute of Technology, Shenzhen, majoring in Computer Science and Technology.
-  - 🥳 About to study in Tsinghua SIGS, Data Science and Information Technology.
+- 🧑‍🎓 Currently in M.S. program of Data Science and Information Technology from Tsinghua SIGS.
+  - 🎓 Received B.S. Degree of Computer Science and Technology from Harbin Institute of Technology, Shenzhen.
 - 🌱 Most of my research interests lie in Recommender System.
 - 🤔 Also interested in Quantitative Trading! Still an amateur though :P
 - 📫 How to reach me
