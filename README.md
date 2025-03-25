@@ -2,8 +2,7 @@
 
 - 🧑‍🎓 Currently in M.S. program of Data Science and Information Technology from Tsinghua SIGS.
   - 🎓 Received B.S. Degree of Computer Science and Technology from Harbin Institute of Technology, Shenzhen.
-- 🌱 Most of my research interests lie in Recommender System.
-- 🤔 Also interested in Quantitative Trading! Still an amateur though :P
+- 🌱 Most of my research interests lie in Recommender Systems.
 - 📫 How to reach me
   - 💬 WeChat: PinskyRobin
   - 📮 Email: pinskyrobin@gmail.com
