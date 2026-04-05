@@ -8,4 +8,7 @@
   - 📮 Email: pinskyrobin@gmail.com
 - ✨ Thanks for your visiting! Wish you a nice day :)
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinskyrobin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; gap: 10px; justify-content: center;">
+  <img src=profile/stats.svg style="width: 54%;">
+  <img src=profile/top-langs.svg style="width: 41%;">
+</div>
